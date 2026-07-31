@@ -41,17 +41,20 @@ An interactive dashboard that analyzes sales performance, customer purchasing be
 
 ---
 
-### 👥 HR Analytics Dashboard *(Coming Soon)*
-**Description:**
-A dashboard designed to analyze workforce metrics such as employee demographics, attrition, department performance, attendance, and hiring trends.
+### 👥 HR Analytics Dashboard
+
+**Description:**  
+An interactive Excel dashboard built using the IBM HR Analytics dataset to analyze employee attrition, workforce demographics, compensation, performance, and HR KPIs.
 
 **Key Highlights**
-- Employee Distribution
-- Attrition Analysis
-- Department Performance
+- Employee Attrition Analysis
+- Workforce Demographics
+- Department-wise Analysis
 - Gender Diversity
-- Experience Analysis
-- HR KPIs
+- Compensation & Performance
+- Employee Tenure Analysis
+- Interactive HR KPIs
+- Dynamic Slicers
 
 ---
 

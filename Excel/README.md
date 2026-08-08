@@ -1,60 +1,51 @@
-# 📊 Excel Data Analytics Projects
+# 📊 Power BI Analytics Projects
 
 ## Overview
 
-This folder contains interactive Microsoft Excel dashboards developed using real-world business datasets. Each project demonstrates end-to-end data analysis, including data cleaning, transformation, KPI creation, dashboard design, and business insights.
-
-The dashboards are built using advanced Excel features to support data-driven decision-making and showcase practical business intelligence skills.
+This folder contains interactive **Power BI dashboards** developed using real-world business datasets. Each project demonstrates data cleaning, transformation, data modeling, DAX, KPI development, visualization, and business insights.
 
 ---
 
 ## 🛠️ Skills Demonstrated
 
-- Data Cleaning & Preparation
-- Data Validation
-- Pivot Tables
-- Pivot Charts
-- Slicers & Timelines
+- Data Cleaning & Transformation
+- Power Query
+- Data Modeling
+- DAX Calculations
 - KPI Development
-- Conditional Formatting
 - Interactive Dashboards
 - Data Visualization
-- Business Analysis
-- Dashboard Design
+- Trend & Performance Analysis
+- Business Intelligence
 - Reporting & Insights
 
 ---
 
 ## 📁 Projects
 
-### 📈 Sales & Logistics Analytics Dashboard
-**Description:**
-An interactive dashboard that analyzes sales performance, customer purchasing behavior, delivery efficiency, and regional order distribution using Pivot Tables, Pivot Charts, KPIs, Maps, and Slicers.
+### 🏢 HR Analytics Dashboard
 
-**Key Highlights**
-- Sales Trend Analysis
-- Product Performance
-- Customer Insights
-- Delivery Analytics
-- Geographic Sales Distribution
-- Interactive Filters
-
----
-
-### 👥 HR Analytics Dashboard
-
-**Description:**  
-An interactive Excel dashboard built using the IBM HR Analytics dataset to analyze employee attrition, workforce demographics, compensation, performance, and HR KPIs.
+**Description:** An interactive Power BI dashboard analyzing employee attrition, workforce demographics, compensation, performance, and HR KPIs.
 
 **Key Highlights**
 - Employee Attrition Analysis
 - Workforce Demographics
 - Department-wise Analysis
-- Gender Diversity
 - Compensation & Performance
-- Employee Tenure Analysis
 - Interactive HR KPIs
-- Dynamic Slicers
+
+---
+
+### 📈 Sales Dashboard
+
+**Description:** An interactive Power BI dashboard analyzing sales performance, trends, product performance, and key business metrics.
+
+**Key Highlights**
+- Sales Trend Analysis
+- Product Performance
+- KPI Analysis
+- Category-wise Performance
+- Interactive Filters
 
 ---
 
@@ -69,19 +60,16 @@ An interactive Excel dashboard built using the IBM HR Analytics dataset to analy
 - Slicers
 - Timeline
 - Excel Formulas (IF, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, etc.)
-
 ---
 
 ## 🎯 Learning Outcomes
 
-Through these projects, I strengthened my ability to:
-
-- Transform raw data into meaningful business insights
-- Build interactive dashboards for decision-making
-- Design professional KPI-driven reports
-- Perform exploratory data analysis (EDA)
-- Present data visually for executive reporting
+- Transform raw data into actionable insights
+- Build interactive KPI-driven dashboards
+- Apply DAX for business calculations
+- Perform exploratory and business analysis
+- Communicate insights through effective visualizations
 
 ---
 
-Thank you for visiting my Excel Analytics Portfolio!
+**Thank you for visiting my Power BI Analytics Portfolio!**

@@ -1,53 +1,69 @@
-# Walmart Sales & Demand Analytics Dashboard
+# 📊 Power BI Projects
 
-## 📊 Project Overview
+A collection of interactive **Power BI data analytics and business intelligence projects** developed using real-world datasets.
 
-An interactive Power BI dashboard analyzing Walmart sales data from 2024 to evaluate sales performance, demand trends, product/category contribution, payment preferences, and customer/store insights.
+Each project focuses on transforming raw data into meaningful insights through **data cleaning, data modeling, DAX calculations, interactive visualizations, and business-focused analysis**.
 
-## 🎯 Business Objectives
-
-- Analyze overall sales performance
-- Identify sales trends over time
-- Compare forecasted vs actual demand
-- Identify top-performing products and categories
-- Analyze customer payment preferences
-- Understand sales across different store locations
-- Explore customer age-group behavior
+---
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
+- Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 - Data Visualization
+- Data Analysis
+- Business Intelligence
 
-## 📈 Dashboard Features
+---
 
-- Total Sales
-- Units Sold
-- Average Basket Value
-- Sales Trend Over Time
-- Forecast vs Actual Demand
-- Sales by Category
-- Sales by Payment Method
-- Top 5 Products by Sales
-- Store City Filter
-- Customer Age Filter
+## 📁 Projects
 
-## 📊 Dataset
+| Project | Description | Tools |
+|---|---|---|
+| [Walmart Sales & Demand Analytics](./Walmart-Sales-Demand-Analytics/) | Analyzes sales performance, demand trends, product/category performance, payment preferences, and customer/store insights. | Power BI, Excel, DAX |
+| **More projects coming soon...** | Additional business intelligence projects will be added. | — |
 
-The dataset contains 5,000 Walmart transactions covering January–September 2024.
+---
 
-## 💡 Key Insights
+## 📌 Skills Demonstrated
 
-- Identified monthly sales trends and fluctuations.
-- Compared forecasted demand against actual demand.
-- Identified the highest-performing product categories.
-- Analyzed the contribution of different payment methods.
-- Identified the top 5 products by sales.
-- Enabled interactive analysis by store city and customer age group.
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Data Modeling
+- DAX Measures & Calculations
+- KPI Development
+- Interactive Dashboard Design
+- Trend Analysis
+- Forecast vs Actual Analysis
+- Product & Category Analysis
+- Customer Segmentation
+- Business Insights & Decision Support
 
-## 📷 Dashboard Preview
+---
 
-![Walmart Dashboard](Dashboard/Walmart_Dashboard.png)
+## 🎯 Objective
+
+The objective of these projects is to demonstrate practical experience in **data analysis and business intelligence**, from preparing raw datasets to designing interactive dashboards that communicate actionable insights.
+
+---
+
+## 📂 Repository Structure
+
+```text
+PowerBI-Projects/
+│
+├── Walmart-Sales-Demand-Analytics/
+│   ├── Dataset/
+│   ├── Power-BI/
+│   ├── Walmart_Dashboard.png
+│   └── README.md
+│
+├── Future-Project/
+│   ├── Dataset/
+│   ├── Power-BI/
+│   ├── Dashboard.png
+│   └── README.md
+│
+└── README.md

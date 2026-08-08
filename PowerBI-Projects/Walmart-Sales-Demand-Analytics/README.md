@@ -50,4 +50,4 @@ The dataset contains 5,000 Walmart transactions covering January–September 202
 
 ## 📷 Dashboard Preview
 
-![Walmart Dashboard](Walmart_Dashboard.png)
+![Dashboard](Walmart_Dashboard.png)

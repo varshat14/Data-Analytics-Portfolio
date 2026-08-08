@@ -1,4 +1,4 @@
-# 📊 Power BI Analytics Projects
+# 📊 Excel Dashboard Projects
 
 ## Overview
 

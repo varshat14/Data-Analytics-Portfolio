@@ -1,19 +1,8 @@
 # 📊 Data Analytics Portfolio
 
-Welcome to my **Data Analytics Portfolio**! This repository showcases a collection of hands-on projects developed using **Microsoft Excel, SQL, Power BI, and Python**. Each project is built using real-world datasets and focuses on solving practical business problems through data cleaning, analysis, visualization, and interactive dashboards.
+Welcome to my **Data Analytics Portfolio**! This repository showcases a collection of hands-on projects developed using **Microsoft Excel and Power BI**. Each project is built using real-world datasets and focuses on solving practical business problems through data cleaning, analysis, visualization, and interactive dashboards.
 
 The goal of this portfolio is to demonstrate my technical skills, analytical thinking, and ability to transform raw data into meaningful business insights that support data-driven decision-making.
-
----
-
-# 🎯 Portfolio Objectives
-
-- Analyze real-world business datasets
-- Build interactive dashboards and reports
-- Perform data cleaning and transformation
-- Extract meaningful insights using SQL and Python
-- Develop executive-level visualizations
-- Solve business problems using data analytics
 
 ---
 
@@ -29,15 +18,6 @@ The goal of this portfolio is to demonstrate my technical skills, analytical thi
 - Dashboard Development
 - KPI Reporting
 
-### SQL
-- Data Querying
-- Joins
-- Aggregate Functions
-- Window Functions
-- Common Table Expressions (CTEs)
-- Stored Procedures
-- Data Analysis
-
 ### Power BI
 - Power Query
 - Data Modeling
@@ -45,14 +25,6 @@ The goal of this portfolio is to demonstrate my technical skills, analytical thi
 - Interactive Dashboards
 - KPI Cards
 - Business Intelligence Reports
-
-### Python
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
 
 ---
 
@@ -67,46 +39,14 @@ Interactive dashboards built using Microsoft Excel featuring KPIs, Pivot Tables,
 
 ---
 
-## 🗄 SQL Projects
-
-- E-commerce Sales Analysis
-- Netflix SQL Analysis
-
-Projects focused on writing optimized SQL queries to answer real-world business questions and uncover actionable insights.
-
----
-
 ## 📈 Power BI Projects
 
-- Customer Churn Analysis
-- Amazon Sales Dashboard
-- Financial Performance Dashboard
+- Walmart-Sales-Demand-Analytics
 
 Business intelligence dashboards created using Power BI with interactive visualizations and DAX calculations.
 
 ---
 
-## 🐍 Python Projects
-
-- Netflix Data Analysis
-- Retail Sales Analysis
-
-Data analytics projects developed using Python libraries such as Pandas, NumPy, and Matplotlib for cleaning, analysis, and visualization.
-
----
-
-## 🚀 End-to-End Analytics Project
-
-A complete business analytics solution integrating multiple technologies:
-
-- SQL for data extraction
-- Python for data cleaning and analysis
-- Power BI for visualization
-- Excel for reporting and dashboarding
-
-This project demonstrates the complete analytics workflow from raw data to business insights.
-
----
 
 # 💼 Business Skills Demonstrated
 
@@ -133,37 +73,12 @@ Data-Analytics-Portfolio
 │   ├── Sales-Dashboard
 │   └── HR-Dashboard
 │
-├── SQL
-│   ├── Ecommerce-Analysis
-│   └── Netflix-SQL
-│
 ├── Power-BI
-│   ├── Customer-Churn
-│   ├── Amazon-Dashboard
-│   └── Financial-Dashboard
-│
-├── Python
-│   ├── Netflix-Analysis
-│   └── Retail-Analysis
-│
-├── End-to-End-Analytics-Project
+│   └── Walmart-Sales-Demand-Analytics
+
 │
 └── README.md
 ```
-
----
-
-# 📚 Tools & Technologies
-
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Git
-- GitHub
 
 ---
 

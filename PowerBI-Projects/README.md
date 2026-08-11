@@ -1,20 +1,18 @@
 # 📊 Power BI Projects
 
-A collection of interactive **Power BI data analytics and business intelligence projects** developed using real-world datasets.
+A collection of interactive **Power BI data analytics and business intelligence projects** built using real-world datasets.
 
-Each project focuses on transforming raw data into meaningful insights through **data cleaning, data modeling, DAX calculations, interactive visualizations, and business-focused analysis**.
+Projects focus on **data cleaning, data modeling, DAX, visualization, and business-focused analysis**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 
 - Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
-- Data Visualization
-- Data Analysis
-- Business Intelligence
+- Data Analysis & Visualization
 
 ---
 
@@ -23,29 +21,18 @@ Each project focuses on transforming raw data into meaningful insights through *
 | Project | Description | Tools |
 |---|---|---|
 | [Walmart Sales & Demand Analytics](./Walmart-Sales-Demand-Analytics/) | Analyzes sales performance, demand trends, product/category performance, payment preferences, and customer/store insights. | Power BI, Excel, DAX |
-| **More projects coming soon...** | Additional business intelligence projects will be added. | — |
+| [Blinkit Sales & Outlet Analytics](./Blinkit-Sales-Analytics-PowerBI/) | Analyzes sales performance, item types, fat content, outlet size, location, outlet type, and customer ratings. | Power BI, Excel, DAX |
 
 ---
 
-## 📌 Skills Demonstrated
+## 📌 Skills
 
 - Data Cleaning & Transformation
-- Exploratory Data Analysis
 - Data Modeling
-- DAX Measures & Calculations
-- KPI Development
+- DAX & KPI Development
 - Interactive Dashboard Design
-- Trend Analysis
-- Forecast vs Actual Analysis
-- Product & Category Analysis
-- Customer Segmentation
-- Business Insights & Decision Support
-
----
-
-## 🎯 Objective
-
-The objective of these projects is to demonstrate practical experience in **data analysis and business intelligence**, from preparing raw datasets to designing interactive dashboards that communicate actionable insights.
+- Trend & Performance Analysis
+- Business Insights
 
 ---
 
@@ -60,10 +47,11 @@ PowerBI-Projects/
 │   ├── Walmart_Dashboard.png
 │   └── README.md
 │
-├── Future-Project/
-│   ├── Dataset/
-│   ├── Power-BI/
-│   ├── Dashboard.png
+├── Blinkit-Sales-Analytics/
+│   ├── Assets/Images/
+│   ├── BlinkIT Grocery Data.xlsx
+│   ├── Blinkit-Dashboard.png
+│   ├── Blinkit-Data.pbix
 │   └── README.md
 │
 └── README.md

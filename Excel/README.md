@@ -25,7 +25,7 @@ This folder contains interactive **Power BI dashboards** developed using real-wo
 
 ### 🏢 HR Analytics Dashboard
 
-**Description:** An interactive Power BI dashboard analyzing employee attrition, workforce demographics, compensation, performance, and HR KPIs.
+**Description:** An interactive Microsoft Excel dashboard analyzing employee attrition, workforce demographics, compensation, performance, and HR KPIs.
 
 **Key Highlights**
 - Employee Attrition Analysis
@@ -38,7 +38,7 @@ This folder contains interactive **Power BI dashboards** developed using real-wo
 
 ### 📈 Sales Dashboard
 
-**Description:** An interactive Power BI dashboard analyzing sales performance, trends, product performance, and key business metrics.
+**Description:** An interactive Microsoft Excel dashboard analyzing sales performance, trends, product performance, and key business metrics.
 
 **Key Highlights**
 - Sales Trend Analysis

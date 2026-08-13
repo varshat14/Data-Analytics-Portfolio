@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains interactive **Power BI dashboards** developed using real-world business datasets. Each project demonstrates data cleaning, transformation, data modeling, DAX, KPI development, visualization, and business insights.
+This folder contains interactive **Excel dashboards** developed using real-world business datasets. Each project demonstrates data cleaning, transformation, data modeling, DAX, KPI development, visualization, and business insights.
 
 ---
 
